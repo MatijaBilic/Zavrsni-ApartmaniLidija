@@ -1,0 +1,48 @@
+section {
+    padding-top: 80px;
+    background-image: url("../images/backs/wavegrid.png");
+    
+}
+
+article{
+    margin: 20px 0px;
+}
+
+article h4 {
+    font-size: 170%;
+    margin: 10px 0px;
+}
+
+article h5 {
+    font-size: 150%;
+}
+
+article div{
+    padding: 10px;
+}
+section h3 {
+    text-align: center;
+    line-height: 1.5em;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+.form-group{
+    margin-bottom: 0px;
+}
+
+#podaci span{
+    display: inline-block;
+    line-height: 1.5em;
+    padding: 5px;
+}
+
+.map{
+    width: 100%;
+    
+}
+
+#upit{
+    margin-top: 20px;
+    font-size: 120%;
+}

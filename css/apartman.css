@@ -1,0 +1,66 @@
+section {
+    padding-top: 80px;
+    background-image: url("../images/backs/wavegrid.png");
+    line-height: 1.5em;
+    font-size: 110%;
+}
+
+article{
+    margin: 20px 0px;
+}
+
+article h4 {
+    font-size: 170%;
+    margin: 10px 0px;
+}
+
+article h5 {
+    font-size: 150%;
+}
+
+article div{
+    padding: 10px;
+}
+section h3 {
+    text-align: center;
+    line-height: 1.5em;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+.datetimepicker {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.gallery {
+    display: inline-block;
+}
+
+#cijene{
+    margin-left: 15%;
+}
+
+#cijene th{
+    vertical-align: middle;
+    text-align: center;
+}
+
+#cijene td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.form-group{
+    margin-bottom: 0px;
+}
+
+#calendar {
+    font-size: 85%;
+}
+
+@media only screen and (max-width: 991px) { 
+    #cijene{
+        margin-left: 0px;
+    }
+}

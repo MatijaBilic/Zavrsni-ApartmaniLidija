@@ -1,0 +1,133 @@
+section {
+    padding-top: 80px;
+    background-image: url("../images/backs/wavegrid.png");
+    line-height: 1.5em;
+    font-size: 110%;
+}
+
+article{
+    margin: 20px 0px;
+}
+
+article h4 {
+    font-size: 170%;
+    margin: 10px 0px;
+}
+
+article h5 {
+    font-size: 150%;
+}
+
+article div{
+    padding: 10px;
+}
+section h3 {
+    text-align: center;
+    line-height: 1.5em;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+#dogadaji{
+    list-style-type: circle;
+}
+
+#dogadaji li{
+    padding: 3px 10px;
+}
+
+.dodatno:hover {
+    background-color: #ccc;
+}
+
+#plaze{
+    position: relative;
+}
+.plaze {
+    width: 100%;
+}
+.pings {
+    width: 3%;
+}
+
+#zdrace{
+    position: absolute;
+    top: 9%;
+    left: 34%;
+    cursor: pointer;
+}
+
+#podvrske {
+    position: absolute;
+    top:12%;
+    left: 15%;
+    cursor: pointer;
+}
+
+#slanica{
+    position: absolute;
+    top:25%;
+    left: 19%;
+    cursor: pointer;
+}
+
+#cigrada{
+    position: absolute;
+    top:45%;
+    left: 28%;
+    cursor: pointer;
+}
+
+#kosirina{
+    position: absolute;
+    top:66%;
+    left: 43%;
+    cursor: pointer;
+}
+
+#plitka{
+    position: absolute;
+    top:45%;
+    left: 46%;
+    cursor: pointer;
+}
+
+#lovisca{
+    position: absolute;
+    top:72%;
+    left: 57%;
+    cursor: pointer;
+}
+
+#andrija{
+    position: absolute;
+    top:77%;
+    left: 73%;
+    cursor: pointer;
+}
+
+#broscica{
+    position: absolute;
+    top:67%;
+    left: 61%;
+    cursor: pointer;
+}
+
+#bilave{
+    position: absolute;
+    top:18%;
+    left: 40%;
+    cursor: pointer;
+}
+
+.slike {
+    display: none;
+}
+
+.slike img {
+    width:100%;
+}
+
+.frame {
+    width:100%;
+}

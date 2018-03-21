@@ -1,0 +1,52 @@
+section {
+    padding-top: 80px;
+    background-image: url("../images/backs/wavegrid.png");
+    line-height: 1.5em;
+    font-size: 110%;
+}
+
+article{
+    margin: 40px 0px;
+}
+
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    width: 100%;
+}
+
+section h3 {
+    text-align: center;
+    line-height: 1.5em;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+.aps {
+    height: 100px;
+    width: 90%;
+    margin: 0 auto;    
+    background-color: #adc2eb;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.aps a {
+    display: block;
+    line-height: 1.1em;
+    text-decoration: none;
+    color: #333;
+    font-size: 200%;
+}
+
+.aps a span{
+    font-size: 50%;
+}
